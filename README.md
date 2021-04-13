@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajp92)]
+
 <!--
 **surajp92/surajp92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajp92)]
+
 
 Here are some ideas to get you started:
 
