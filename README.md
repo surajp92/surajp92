@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 
+
+### Tech Stack
+
+* Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), C/C++, MATLAB, Java :coffee:, ...
+* PHP :elephant:, HTML, CSS, JavaScript (Vanilla), Bootstrap
+* Git, GitHub :octocat:, Docker :whale:, Slurm
+* LaTeX :bird:, Overleaf :leaves:, Markdown
+* 
 <p>
 	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=surajp92&show_icons=true&hide_title=true" align="left"></a>
 	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajp92&layout=compact&hide_title=true" align="right"></a>
