@@ -1,13 +1,16 @@
 ### Hi there 👋
 
 I'm Suraj Pawar and I ..
-
+* : Am a PhD student in Mechanical Engineering at the Oklahoma State University
+* : Am interested in Computational Science and Engineering, Machine Learning, Deep Neural Networks
+* :runner: Run almost everyday to staya in shape :muscle:
 
 ### Tech Stack
 
 * Python :snake: (Tensorflow, PyTorch, NumPy, SciPy, Pandas, Jupyter, scikit-learn, ...), C/C++, MATLAB, 
-* Git, GitHub, Slurm
 * LaTeX :bird:, Overleaf :leaves:, Markdown
+* Git, GitHub, Slurm
+
 
 <p>
 	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=surajp92&show_icons=true&hide_title=true" align="left"></a>
