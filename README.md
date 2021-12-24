@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+I'm Suraj Pawar and I ..
 
 
 ### Tech Stack
 
-* Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), C/C++, MATLAB, Java :coffee:, ...
-* PHP :elephant:, HTML, CSS, JavaScript (Vanilla), Bootstrap
-* Git, GitHub :octocat:, Docker :whale:, Slurm
+* Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), C/C++, MATLAB, 
+* Git, GitHub :octocat:, Slurm
 * LaTeX :bird:, Overleaf :leaves:, Markdown
 * 
 <p>
