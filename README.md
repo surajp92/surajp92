@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Suraj Pawar and I ..
-* : Am a PhD student in Mechanical Engineering at the Oklahoma State University
-* : Am interested in Computational Science and Engineering, Machine Learning, Deep Neural Networks
+* :mortar_board Am a PhD student in Mechanical Engineering at the Oklahoma State University
+* :telescope Am currently working on developing physics-constrained deep learning model for scientific problems 
 * :runner: Run almost everyday to staya in shape :muscle:
 
 ### Tech Stack
@@ -17,7 +17,7 @@ I'm Suraj Pawar and I ..
 	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajp92&layout=compact&hide_title=true" align="right"></a>
 </p>
 
-
+- 🔭 I’m currently working on ...
 
 <!--
 
