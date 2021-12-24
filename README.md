@@ -17,8 +17,6 @@ I'm Suraj Pawar and
 	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajp92&layout=compact&hide_title=true" align="right"></a>
 </p>
 
-- 🔭 I’m currently working on ...
-
 <!--
 
 [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajp92&theme=github)](https://github.com/surajp92/github-readme-activity-graph)
