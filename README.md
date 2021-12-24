@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Suraj Pawar and I ..
-* :mortar_board Am a PhD student in Mechanical Engineering at the Oklahoma State University
-* :telescope Am currently working on developing physics-constrained deep learning model for scientific problems 
+* :mortar_board: Am a PhD student in Mechanical Engineering at the Oklahoma State University
+* :telescope: Am currently working on developing physics-constrained deep learning model for scientific problems 
 * :runner: Run almost everyday to staya in shape :muscle:
 
 ### Tech Stack
