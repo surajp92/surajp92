@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Suraj and 
-* :mortar_board: I'm a PhD student in Mechanical Engineering at the Oklahoma State University
+* :mortar_board: I have done PhD in Mechanical Engineering at the Oklahoma State University
 * :telescope: I'm currently working on developing physics-constrained deep learning model for scientific problems 
 * :runner: I try to run everyday to stay in shape :muscle:
 
