@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm Suraj and 
-* :mortar_board: I have done PhD in Mechanical Engineering at the Oklahoma State University
-* :telescope: I'm currently working on developing physics-constrained deep learning model for scientific problems 
+* :telescope: I'm a machine learning researcher interested in developing physics-constrained deep learning models for complex scientific problems 
 * :runner: I try to run everyday to stay in shape :muscle:
 
 ### Tech Stack
