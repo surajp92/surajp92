@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Suraj and 
-* :telescope: I'm a machine learning researcher interested in developing physics-constrained deep learning models for complex scientific problems 
-* :runner: I try to run everyday to stay in shape :muscle:
+* :telescope: I'm a machine learning researcher interested in developing learning models for complex scientific problems.
+* :runner: I try to run and do strength training to stay in shape :muscle:
 
 ### Tech Stack
 
