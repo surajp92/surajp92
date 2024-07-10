@@ -6,9 +6,10 @@ I'm Suraj and
 
 ### Tech Stack
 
-* Python :snake: (Tensorflow, PyTorch, NumPy, SciPy, Pandas, Jupyter, scikit-learn, ...), C/C++, MATLAB, 
-* LaTeX :bird:, Overleaf :leaves:, Markdown
-* Git, GitHub, Slurm
+* Programming Languages: Python, C/C++, Julia, Fortran, MPI, MATLAB
+* Libraries: PyTorch, TensorFlow, JAX, MLFlow, DVC, Huggingface, Ray, PySpark, Sklearn, NumPy, SciPy, Pandas, Optuna
+* DevOps tools: Git, Singularity, Docker, Azure, Vscode, Linux, Jupyter, Colab, Streamlit
+* ML Architectures: CNN, LSTM, GANs, Transformers, Diffusion model, VAE, GNN, SAM
 
 
 <p>
