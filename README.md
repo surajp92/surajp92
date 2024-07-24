@@ -8,7 +8,7 @@ I'm Suraj and
 
 * Programming Languages: Python, C/C++, Julia, Fortran, MPI, MATLAB
 * Libraries: PyTorch, TensorFlow, JAX, MLFlow, DVC, Huggingface, Ray, PySpark, Sklearn, NumPy, SciPy, Pandas, Optuna
-* DevOps tools: Git, Singularity, Docker, Azure, Vscode, Linux, Jupyter, Colab, Streamlit
+* DevOps tools: Git, Singularity, Docker, CI/CD, Azure, Vscode, Linux, Jupyter, Colab, Streamlit
 * ML Architectures: CNN, LSTM, GANs, Transformers, Diffusion model, VAE, GNN, SAM
 
 
